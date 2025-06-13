@@ -32,14 +32,14 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 > **1. PAIR CODE SESSION ID**
 
-<a href='https://queen-rashu-md-web-209b77e7e07b.herokuapp.com/pair' target="_blank">
+<a href='https://queen-rashu-md-web-fd54858976da.herokuapp.com/pair' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 <br> 
 
 > **2. PAIR CODE SESSION ID**
 
-<a href='https://queen-rashu-md-web-209b77e7e07b.herokuapp.com/' target="_blank">
+<a href='https://queen-rashu-md-web-fd54858976da.herokuapp.com/' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-darkpink?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 <br> 
